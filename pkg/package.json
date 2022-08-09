@@ -1,0 +1,22 @@
+{
+  "name": "@yeliulee/rust-wasm-mirage-tank",
+  "description": "MirageTank Wasm driven by rustwasm",
+  "collaborators": [
+    "Sherman <yeliuleet@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_wasm_mirage_tank_bg.wasm",
+    "rust_wasm_mirage_tank.js",
+    "rust_wasm_mirage_tank.d.ts"
+  ],
+  "module": "rust_wasm_mirage_tank.js",
+  "types": "rust_wasm_mirage_tank.d.ts",
+  "sideEffects": false,
+  "license": "MIT",
+  "homepage": "https://github.com/yeliulee/rust-wasm-mirage-tank",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeliulee/rust-wasm-mirage-tank.git"
+  }
+}
