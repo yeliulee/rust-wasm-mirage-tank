@@ -20,7 +20,7 @@ import { MirageTankWrapper } from "@yeliulee/rust-wasm-mirage-tank";
 const foreImageBuffer = undefined // specific your own image buffer here
 const backImageBuffer = undefined // specific your own image buffer here
 
-const tank = new MirageTank(foreImageBuffer, backImageBuffer)
+const tank = new MirageTankWrapper(foreImageBuffer, backImageBuffer)
 
 // more
 ```
