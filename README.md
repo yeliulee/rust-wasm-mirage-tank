@@ -12,7 +12,7 @@ source ./build.sh
 
 ## Usage
 
-refer [npm/README.md](./npm/README.md)
+refer [pkg/README.md](./pkg/README.md)
 
 ## Credits
 
