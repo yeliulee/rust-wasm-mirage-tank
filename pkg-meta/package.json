@@ -4,7 +4,7 @@
   "collaborators": [
     "Sherman <yeliuleet@gmail.com>"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": [
     "rust_wasm_mirage_tank_bg.wasm",
     "rust_wasm_mirage_tank.js",
